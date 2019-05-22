@@ -18,7 +18,7 @@ Unicode の規格における東アジア圏の各種文字のうち、いわゆ
 
 **この Formula は、 versioned formula であるため、この Formula によって導入される [mutt][MUTT] は、 keg only で導入されることに留意して下さい。**
 
-この Formula によって導入される [mutt][MUTT] を使用するには、 ```brew link --force z80oolong/tmux/tmux@2.3``` コマンドを実行する必要があります。
+この Formula によって導入される [mutt][MUTT] を使用するには、 ```brew link --force z80oolong/mutt/mutt@1.9``` コマンドを実行する必要があります。
 
 ### z80oolong/mutt/mutt@1.10
 
@@ -26,7 +26,7 @@ Unicode の規格における東アジア圏の各種文字のうち、いわゆ
 
 **この Formula は、 versioned formula であるため、この Formula によって導入される [mutt][MUTT] は、 keg only で導入されることに留意して下さい。**
 
-この Formula によって導入される [mutt][MUTT] を使用するには、 ```brew link --force z80oolong/tmux/tmux@2.4``` コマンドを実行する必要があります。
+この Formula によって導入される [mutt][MUTT] を使用するには、 ```brew link --force z80oolong/mutt/mutt@1.10``` コマンドを実行する必要があります。
 
 ### z80oolong/mutt/mutt@1.11
 
@@ -34,7 +34,7 @@ Unicode の規格における東アジア圏の各種文字のうち、いわゆ
 
 **この Formula は、 versioned formula であるため、この Formula によって導入される [mutt][MUTT] は、 keg only で導入されることに留意して下さい。**
 
-この Formula によって導入される [mutt][MUTT] を使用するには、 ```brew link --force z80oolong/tmux/tmux@2.5``` コマンドを実行する必要があります。
+この Formula によって導入される [mutt][MUTT] を使用するには、 ```brew link --force z80oolong/mutt/mutt@1.11``` コマンドを実行する必要があります。
 
 <!-- 外部リンク一覧 -->
 
